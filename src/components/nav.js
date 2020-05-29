@@ -19,14 +19,14 @@ export const Nav = (props) => {
                 <NavItem title="Dashboard" />
                 <Divider />
                 <NavLabel>Events</NavLabel>
-                <NavItem title="Events" />
+                <NavItem active title="Events" />
                 <NavItem title="Scheduling" />
                 <Divider />
                 <NavLabel>People</NavLabel>
                 <NavItem title="Social Media" />
                 <NavItem title="Sites & Users" />
                 <NavItem title="Contacts" />
-                <NavItem active title="Organizations" />
+                <NavItem title="Organizations" />
                 <Divider />
                 <NavLabel>Other</NavLabel>
                 <NavItem title="Encoder Profiles" />
